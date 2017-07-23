@@ -9,7 +9,7 @@ This project is using Python 3 and needs the following libraries:
 * matplotlib
 * jupyter notebook
 
-These can be install using pip or conda if using [Anaconda](https://www.continuum.io/downloads).
+These can be installed using pip or conda if using [Anaconda](https://www.continuum.io/downloads).
 
 The project is implemented in a Jupyter notebook and can be run using the following from a terminal:
 
