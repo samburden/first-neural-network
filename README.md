@@ -1,4 +1,4 @@
-# First Neural Network project
+# Deep Learning - First Neural Network project
 
 This is a simple neural network used for predicting daily bike rental demand for a bike rental company.
 
